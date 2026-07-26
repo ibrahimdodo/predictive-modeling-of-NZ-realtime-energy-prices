@@ -1,6 +1,5 @@
  Predictive Modeling of New Zealand Real-Time Dispatch
  Energy Prices
- Author: Ibrahim Dodo
 ================================================================
 
 ## 📖 [Report](https://drive.google.com/file/d/12TSbBOLnudgu5ohjBGKaCxg2WmH7EkEV/view?usp=share_link)
