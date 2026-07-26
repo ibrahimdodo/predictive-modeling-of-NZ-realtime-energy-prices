@@ -1,5 +1,3 @@
-================================================================
- README
  Predictive Modeling of New Zealand Real-Time Dispatch
  Energy Prices
  Author: Ibrahim Dodo
